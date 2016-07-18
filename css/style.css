@@ -1,0 +1,114 @@
+body{
+	font-family: 'Lato', sans-serif;
+	line-height: 26px;
+	font-size: 15px;
+	color: rgb(100, 95, 95);
+	letter-spacing: 1px;
+}
+
+.jumbotron{
+	background: url(../img/header_bg.jpg) no-repeat  center center ;
+	color:white;
+	height:550px;
+	text-align: center;
+	padding-top: 250px;
+	margin-bottom: 0px;
+}
+.section img{
+	width: 100%;
+}
+.bg_color{
+background-color: rgb(245, 245, 245);
+}
+.bg_color1{
+	background-color: rgb(43, 43, 43);
+}
+.slogan{
+	background: url(../img/bg/divider1.jpg) no-repeat center center ;
+	color:white;
+	height:350px;
+	text-align: center;
+	padding-top: 5%;
+	
+}
+.slogan h1{
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+.slogan p{
+	font-size: 1.5em;
+}
+.slogan .line{
+	margin: 0 auto 30px auto;
+	display: block;
+	width: 70%;
+	height: 2px;
+}
+.slogan span{
+	font-size: 2em;
+	color:rgb(52, 152, 219);
+
+}
+
+.row{
+	margin: 40px 0;
+}
+
+.section .info{
+	padding:0 40px;
+}
+.section .info span{
+	font-size: 50px;
+}
+
+.section h1{
+	text-align: center;
+	--padding:0 0 30px 0;
+	text-transform: uppercase;
+}
+.section .line{
+	margin: 0 auto 30px auto;
+	display: block;
+	width: 70%;
+	height: 14px;
+}
+
+.section h1{
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+
+.section .img1{
+	width: 100%;
+	margin-top: 20px;
+}
+.circle_image img{
+	width: 60%;
+	border-radius:100%; 
+}
+.circle_image h3{
+	color:black;
+}
+.circle_image span{
+	color:rgb(52, 152, 219);
+}
+.circle_image2 .col-md-4{
+	padding-top:20px;
+	padding-bottom: 30px;
+}
+.circle_image2 img{
+	width: 40%;
+	border-radius:100%; 
+	margin-top: 20px;
+}
+.circle_image2 h3{
+	color:lightgrey;
+}
+.footer{
+	background-color: rgb(43, 43, 43);
+	color:white;
+	padding-top:40px;
+	padding-bottom:10px;
+	font-size: 1.2em;
+}
